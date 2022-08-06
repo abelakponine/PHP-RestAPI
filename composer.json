@@ -1,0 +1,15 @@
+{
+    "name": "vendor/restapi",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abel Akponine",
+            "email": "abelakponine@gmail.com"
+        }
+    ],
+    "require": {}
+}
