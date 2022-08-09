@@ -1,0 +1,14 @@
+body {
+    padding: 2rem;
+}
+
+form {
+    width: 100%;
+    max-width: 400px;
+}
+table {
+    width: 100%;
+}
+button {
+    width: 100%;
+}
